@@ -1,0 +1,16 @@
+[
+  {
+    "vehicle_id": "V001",
+    "timestamp": "2025-03-01T08:15:00",
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "speed_kmph": 40
+  },
+  {
+    "vehicle_id": "V002",
+    "timestamp": "2025-03-01T10:45:00",
+    "latitude": 42.3736,
+    "longitude": -71.1097,
+    "speed_kmph": 35
+  }
+]

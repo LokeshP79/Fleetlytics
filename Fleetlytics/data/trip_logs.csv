@@ -1,0 +1,4 @@
+trip_id,vehicle_id,start_time,end_time,start_location,end_location,distance_km,fuel_used_l
+T001,V001,2025-03-01T08:00:00,2025-03-01T09:15:00,Boston,Cambridge,25,1.8
+T002,V002,2025-03-01T10:30:00,2025-03-01T11:20:00,Somerville,Boston,15,1.2
+T003,V001,2025-03-02T07:00:00,2025-03-02T07:40:00,Boston,Brookline,12,0.9
